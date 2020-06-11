@@ -1,2 +1,2 @@
 # PGP-CD
-public key for b@cd.c
+public key for b@cd.com
